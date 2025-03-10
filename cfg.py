@@ -67,8 +67,6 @@ def parse_args():
     type=str,
     default='../data',
     help='The path of segmentation data')
-    # '../dataset/RIGA/DiscRegion'
-    # '../dataset/ISIC'
     opt = parser.parse_args("")
 
     return opt
