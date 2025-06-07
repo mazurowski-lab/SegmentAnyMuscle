@@ -14,3 +14,7 @@ Then, you can simply run the evaluation with
 python3 evaluate.py
 ```
 The output will be saved in numpy format (.npy) and nearly raw raster data format (.seg.nrrd).
+
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
